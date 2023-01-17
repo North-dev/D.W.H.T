@@ -1,8 +1,7 @@
 # D.W.H.T
 
-[![Node.js Package](https://github.com/North-dev/D.W.H.T/actions/workflows/npm-publish.yml/badge.svg?branch=main&event=status)](https://github.com/North-dev/D.W.H.T/actions/workflows/npm-publish.yml)
-
-![Test](https://badgen.net/github/checks/node-formidable/node-formidable)
+![Test1](https://badgen.net/github/checks/node-formidable/node-formidable)
+![Test2](https://badgen.net/github/commits/micromatch/micromatch)
 
 # How to create a webhook
 
