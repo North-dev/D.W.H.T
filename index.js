@@ -10,5 +10,5 @@ app.get('/', (req, res) => {
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(port, () => {
-    console.log(`Visit localhost:${port} or 127.0.0.1:${port} in your browser to access the tool.`);
+    console.log(`Visit 127.0.0.1:${port} in your browser to access the tool.`);
 });
